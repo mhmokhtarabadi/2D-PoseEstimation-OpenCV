@@ -9,6 +9,10 @@ pip install numpy
 pip install opencv-python
 ```
 
+---
+
+The models can be downloaded from [here](https://drive.google.com/drive/folders/1CkkDCWg7MV4Tps2-fWMlhie3vUUWiamq?usp=sharing) (Put them in models folder).
+
 To run the code:
 ```terminal
 python3 ./pose2D.py
